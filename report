@@ -1,0 +1,148 @@
+Course Project Documentation 
+
+
+CS101 
+
+
+CRAZY TAXI 
+
+
+TEAM ID : 457 
+
+
+K. Sai Meghana (L) 14D070060 
+Vachika Maripi 140040081 
+Sonu Babu 135320010 
+
+Table Of Contents 
+
+
+1. Introduction……………………………..3 
+2. Directions……………………………….3 
+3. Problem Statement…………………….4 
+4. Requirements…………………………..4 
+5. Implementation…………………………4 
+6. Testing the Code……………………….6 
+7. Discussion of Project…………………10 
+8. Future Work……………………………11 
+9. References…………………………….12 
+10. Youtube Video Link…………………..12 
+
+1.Introduction: 
+
+Our project is inspired from facebook game 
+crazy taxi and many other game. These days, 
+students are more interested in playing racing games. 
+They usually spend a lot of time playing those racing 
+games. Our idea was also to create such a game not 
+exactly a racing game but which includes that sort sort 
+of games. 
+
+2. Directions: 
+for left -press 1 and enter 
+
+for right -press 3 and enter 
+
+for forward - press 5 and enter 
+
+
+3. Problem Statement: 
+The player which is a car runs over a path 
+which contains many obstacles. The player has to 
+cross all the obstacles without collision in order to 
+cross a level. 
+
+4. Software Requirements: 
+Codeblocks with Simplecpp. 
+5. Implementation: 
+• We have created a path of around 5000 m 
+which contains many obstacles (rectangles) 
+placed at their respective position. The player 
+
+is being placed at the visible part of the init 
+canvas. 
+
+
+• On the commands given by the player, all the 
+obstacles come to the visible part of the canvas 
+and passover through the player. 
+• The player has to move to the left and right so 
+that he does not collide with the rectangle. 
+• We have created function left and right in the 
+code so that the player moves to the left or to 
+the right. 
+• Each time a while loop is executed the player 
+advances in the forward direction or in other 
+words all the obstacles move in the backward 
+direction. 
+• If the player collides with the obstacle, then the 
+game is over. 
+
+6. Testing the Code: 
+Our code is designed such that if we give input 1 , 
+the player moves to the left. 
+SCREENSHOTS 
+GAME CASE 1 - LEFT 
+
+
+
+
+NOW GIVE INPUT 1 (LEFT) : 
+
+
+
+CASE 2- RIGHT 
+
+
+
+
+NOW GIVE INPUT 2 (RIGHT) 
+
+
+
+SOME OTHER SCREENSHOTS OF 
+THE GAME 
+
+
+
+7. Discussion of Project: 
+A)What are worked as per plan? 
+• We could make a path of over 5000-6000 
+metres length in the initCanvas. We arranged 
+all the obstacles in the respective position. 
+• Our player is being created in the visible part of 
+the init Canvas. 
+• On the commands of the player, the player is 
+made to move forward or to the left or right 
+which was implemented successfully. 
+• If the player collides with the obstacle, then the 
+game is over. 
+• We are effectively creating the score for the 
+player depending on the number of obstacles 
+he crossed. 
+
+B) Changes made in plan: 
+We could not make the time 
+implementation in our game and also we planned 
+of creating an infinite path. But the creation of 
+infinite path actually delayed the game to a larger 
+extent. It took much time to complete one while 
+loop. 
+We additionally added SCORE in our 
+project. 
+
+8. Future Work: 
+Our game came be extended to a multiplayer 
+racing game with a lot of graphics , time 
+implementation in the game, also the sound 
+implementation. 
+
+
+9. References: 
+• http://www.cse.iitb.ac.in/~cs101/2012.2/ 
+resources/simplecppGraphics.pdf 
+10. Youtube video link: 
+https://www.youtube.com/watch? 
+v=LXqHsWnEGsc&feature=youtu.be 
+
+
