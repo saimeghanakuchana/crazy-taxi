@@ -1,0 +1,11 @@
+We are presenting our project crazy taxi.
+Team id: 457
+For this project we have to install simplecpp code blocks 
+Installation process :
+ 1)google search on simple codeblocks iitb.
+2)go to simplecpp and click on install full version then code blocks will be installed on your pc
+In code blocks create a new file and save it as .cpp format 
+In game first we have created a init canvas
+And we have made some rectangles as obstacles.
+ we have defined functions like LEFT,RIGHT,FORWARD  to move the main rectangle . and we filled it with colours by simplecpp  graphics. 
+
