@@ -2,7 +2,7 @@
 
 
 //defining right for user
-Rectangle right(Rectangle T){
+/*Rectangle right(Rectangle T){
 
     Rectangle Y(T.getX()+100,T.getY()+0,50,75);
     Y.setColor(COLOR(253,0,0));
@@ -202,7 +202,7 @@ Rectangle E(250,-6900,500,10);
 
 
 //ended defining rectangles//
-// */
+// 
 
 
 int a;
@@ -229,7 +229,7 @@ else if(a==5){
 
       if(sqrt((A.getY()-A1.getY())*(A.getY()-A1.getY())+(A.getX()-A1.getX())*(A.getX()-A1.getX()))<75 ||
    sqrt((A.getY()-A2.getY())*(A.getY()-A2.getY())+(A.getX()-A2.getX())*(A.getX()-A2.getX()))<75  ||
-   sqrt((A.getY()-A3.getY())*(A.getY()-A3.getY())+(A.getX()-A3.getX())*(A.getX()-A3.getX()))<75 ||
+   sqrt((A.getY()-A3.getY())(A.getY()-A3.getY())+(A.getX()-A3.getX())*(A.getX()-A3.getX()))<75 ||
    sqrt((A.getY()-A4.getY())*(A.getY()-A4.getY())+(A.getX()-A4.getX())*(A.getX()-A4.getX()))<75 ||
   sqrt((A.getY()-A5.getY())*(A.getY()-A5.getY())+(A.getX()-A5.getX())*(A.getX()-A5.getX()))<75  ||
    sqrt((A.getY()-A6.getY())*(A.getY()-A6.getY())+(A.getX()-A6.getX())*(A.getX()-A6.getX()))<75  ||
@@ -296,6 +296,6 @@ E=down(E);}
 
 
 }
-;
+;*/
 
 }
